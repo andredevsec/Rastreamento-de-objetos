@@ -64,16 +64,20 @@ Feito isso é possível executar o código com o comando
 KCF:
 Observe que o KCF é bem rápido em fotos por segundo, porém perde o alvo no rastreamento.
 Ex1 KCF:
+
 ![Untitled video - Made with Clipchamp (1)](https://github.com/andredevsec/Rastreamento-de-objetos/assets/62612604/dac40f00-8a5b-49f0-953c-981b73f383f4)
 
 Observe o CSRT: Embora seja lento, com menos FPS, possui um rastreamento mais preciso.
 Ex1 CSRT:
+
 ![Untitled video - Made with Clipchamp (2)](https://github.com/andredevsec/Rastreamento-de-objetos/assets/62612604/71c3c504-859d-467e-8061-e13c78df7312)
 
 Ex2 KCF:
+
 ![kcf-py-india](https://github.com/andredevsec/Rastreamento-de-objetos/assets/62612604/dc7957a5-75d9-488f-b16d-e4b66f5c88e6)
 
-Ex2 CSRT
+Ex2 CSRT:
+
 ![csrt-py-india](https://github.com/andredevsec/Rastreamento-de-objetos/assets/62612604/a03fb3c9-48f0-477a-92dc-db1c81f912a7)
 
 
